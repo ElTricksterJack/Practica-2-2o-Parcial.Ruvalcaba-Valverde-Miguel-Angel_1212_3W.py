@@ -40,3 +40,9 @@
 # 11-  Que saque la distancia dirigida entre dos puntos
 ![image](https://github.com/user-attachments/assets/38d64acf-3eed-4bb4-9d9b-93da0129946a)
 ![image](https://github.com/user-attachments/assets/ec413043-de47-4ed7-b5fc-156a9849c1ac)
+
+
+
+
+![image](https://github.com/user-attachments/assets/ba73731f-4184-4b9b-b7a4-c3d835b8bfed)
+tengo sueño
